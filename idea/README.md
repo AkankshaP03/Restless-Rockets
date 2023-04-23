@@ -1,0 +1,3 @@
+# About Our Idea
+
+For retail banking customers, who are tech-savvy, have a high volume of transactions and lead a busy routine, my product Account Insights would perform an automated review of all their accounts held with different institutions and highlight doubtful, duplicate, auto-debit and other such transactions of their concern on one platform that would save them time and effort spent on manually reviewing and identifying these.
